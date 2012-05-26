@@ -1,6 +1,6 @@
 [Project]
-FileName=mobil.dev
-Name=Project1
+FileName=becak.dev
+Name=becak
 UnitCount=1
 Type=0
 Ver=1
@@ -12,13 +12,13 @@ ResourceIncludes=
 MakeIncludes=
 Compiler=
 CppCompiler=
-Linker=C:/Dev-Cpp/lib/libglu32.a_@@_C:/Dev-Cpp/lib/libglut32.a_@@_C:/Dev-Cpp/lib/libopengl32.a_@@_
+Linker=C:/Dev-Cpp/lib/libglaux.a_@@_C:/Dev-Cpp/lib/libglu32.a_@@_C:/Dev-Cpp/lib/libglut32.a_@@_C:/Dev-Cpp/lib/libopengl32.a_@@_
 IsCpp=1
 Icon=
 ExeOutput=
 ObjectOutput=
 OverrideOutput=0
-OverrideOutputName=mobil.exe
+OverrideOutputName=becak.exe
 HostApplication=
 Folders=
 CommandLine=
